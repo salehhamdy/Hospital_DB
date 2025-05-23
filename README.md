@@ -79,12 +79,6 @@ python HospitalGUI.py
 
 ---
 
-## Screenshots
-
-_Add screenshots of the GUI here once the app is running._
-
----
-
 ## Troubleshooting
 
 | Problem | Possible Fix |
